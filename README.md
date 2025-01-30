@@ -1,4 +1,5 @@
-# Keylogger Application
+# ProdigyInfoTech Task_04
+Keylogger Application
 
 A simple keylogger script written in Python using the `pynput` library. This tool logs keyboard input and writes the results to a file (`keylog.txt`). **Intended for educational purposes only.**
 
